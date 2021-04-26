@@ -5,7 +5,7 @@
 ### Hi there 👋
 This is Ozan. A software engineer with a love for programming & computers, living in Amsterdam & working at Tiqets as a Lead DevOps engineer.
 
- I love all the programming languages and constantly learn new ones, my mission is to build useful things and help humanity take a step further!
+ I love all the programming languages and constantly learn new ones. My mission is to build useful things and help humanity take a step further!
 
 <details>
   <summary>More...</summary>
