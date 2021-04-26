@@ -44,7 +44,7 @@ This is Ozan. A software engineer with a love for programming & computers, Lead 
 <img alt="nginx" src="https://img.shields.io/badge/nginx-%23239120.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>&nbsp;
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 
-<h3>Databases</h3>
+<h3>Databases & Queues</h3>
 <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;
 <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>&nbsp;
