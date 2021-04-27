@@ -67,7 +67,7 @@ This is Ozan. A software engineer with a love for programming & computers, Lead 
 
 </br></br><h3>My Open Source Projects</h3>
 
-| Project  🚧 | Stars :star: | Forks 🍴 | Issues ❌ | Pull Requests 🌿 |
+| Project  | Stars  | Forks | Issues | Pull Requests |
 |---------|-------|-------|--------|---------------|
 | Rust Music Theory | ![GitHub stars](https://img.shields.io/github/stars/ozankasikci/rust-music-theory?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/ozankasikci/rust-music-theory?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/ozankasikci/rust-music-theory?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/ozankasikci/rust-music-theory?style=for-the-badge) |
 | Vim Man! | ![GitHub stars](https://img.shields.io/github/stars/ozankasikci/vim-man?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/ozankasikci/vim-man?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/ozankasikci/vim-man?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/ozankasikci/vim-man?style=for-the-badge) |
