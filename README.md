@@ -3,7 +3,7 @@
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=1DA1F2&logo=Twitter&style=flat-square&logoColor=white)](https://twitter.com/ozankasikci)
 
 ### Hi there 👋
-This is Ozan. A software engineer with a love for programming & computers, Lead DevOps Engineer @Tiqets in Amsterdam.
+This is Ozan. A software engineer with a love for programming & computers, currently building awesome games at Longhorn Games.
 
  I love all the programming languages and constantly learn new ones. My motivation is to build useful things and help humanity take a step further!
 
