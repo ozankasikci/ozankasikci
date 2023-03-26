@@ -3,9 +3,9 @@
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=1DA1F2&logo=Twitter&style=flat-square&logoColor=white)](https://twitter.com/ozankasikci)
 
 ### Hi there 👋
-This is Ozan. A software engineer & entrepreneur with a love for programming & computers, building awesome games at [Longhorn Games](https://longhorn.games).
+Hi there, I'm Ozan, a software engineer and entrepreneur with a passion for programming and building awesome games at [Longhorn Games](https://longhorn.games).
 
- I love all the programming languages and constantly learn new ones. My motivation is to build useful things and help humanity take a step further!
+I'm driven by the belief that we can help humanity take a step forward through innovation, and I'm committed to doing my part to make that happen.
 
 <details>
   <summary>More...</summary>
