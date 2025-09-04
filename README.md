@@ -3,7 +3,7 @@
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=1DA1F2&logo=Twitter&style=flat-square&logoColor=white)](https://twitter.com/ozankasikci)
 
 ### Hi there 👋
-Hi there, I'm Ozan, a software engineer and entrepreneur with a passion for programming and building awesome games as the co-f of [Longhorn Games](https://longhorn.games).
+Hi there, I'm Ozan, an entrepreneur and an engineer, building awesome games as the co-f of [Longhorn Games](https://longhorn.games).
 
 I'm driven by the belief that we can help humanity take a step forward through innovation, and I'm committed to doing my part to make that happen.
 
